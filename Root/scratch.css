@@ -1,0 +1,17 @@
+.background{
+    background-color: aliceblue;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/736x/18/3e/7d/183e7d38279f347c0965f6b2443bd97f.jpg);
+}
+
+.list{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.titles{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkblue;
+}
