@@ -3,15 +3,36 @@
 }
 
 body{
-    background-image: url(https://i.pinimg.com/736x/18/3e/7d/183e7d38279f347c0965f6b2443bd97f.jpg);
+    background-image: url(https://img.freepik.com/free-vector/abstract-background-with-monochrome-low-poly-design_1048-14453.jpg?w=2000);
 }
 
 .list{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: black;
+    font-size: x-large;
+    text-align: center;
+    -webkit-text-stroke-color: gray;
+    -webkit-text-stroke-width: .75px;
+}
+ol{
+    display: inline-block; 
+	text-align: left;
+}
+ul{
+    display: inline-block; 
+	text-align: left;
+}
+  
+.listtitle{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-size: xx-large;
+    
 }
 
 .titles{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: darkblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    -webkit-text-stroke-color: gray;
+    -webkit-text-stroke-width: .75px;
 }
